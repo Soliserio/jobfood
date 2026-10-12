@@ -177,5 +177,4 @@ Food consumption and storage withdrawals still need live verification. Start wit
 
 ## Credits
 
-Author: Soliserio  
-AI-assisted implementation.
+Author: Soliserio
