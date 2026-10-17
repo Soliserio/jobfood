@@ -150,7 +150,7 @@ Storage withdrawals move one serving, not a whole stack.
 ## Safety and Limitations
 
 - An existing Food effect is left untouched, even if you change modes.
-- Stand still and disengaged before using food.
+- Stand still before using food.
 - Do not manually move or use the selected food during a request.
 - Storage transfers require confirmation before item use.
 - Successful use requires both a consumption count change and the Food buff.
